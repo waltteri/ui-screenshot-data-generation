@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Tahoma,Verdana,Segoe,sans-serif; 
+    color: black;
+}
+
+div, p {
+    padding: 5px;
+    margin: 10px;
+}
+
+.btn{
+    border-color: gray;
+    border-style: ridge;
+    border-width: 5px;
+    background: lightgray;
+    border-radius: 0;
+}
+
+input {
+    border-radius: 0;
+}
+
+table{
+    margin: 1em;
+}
+
+td{
+    border: 1px solid black;
+    padding: 3px;
+}
